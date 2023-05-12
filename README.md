@@ -21,27 +21,27 @@ Sou **Desenvolvedor Full Stack**. Atualmente, trabalho com desenvolvimento em v√
  
 
 <div style="display: inline_block" align="center"><br>
-    <img align="center" alt="Vitor-Js" height="80" width="80"
+    <img align="center" alt="Vitor-Js" height="70" width="70"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-    <img align="center" alt="Vitor-php" height="80" width="80"
+    <img align="center" alt="Vitor-php" height="70" width="70"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img align="center" alt="Vitor-python" height="80" width="80"
+    <img align="center" alt="Vitor-python" height="70" width="70"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-    <img align="center" alt="Vitor-mysql" height="80" width="80"
+    <img align="center" alt="Vitor-mysql" height="70" width="70"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-    <img align="center" alt="Vitor-css3" height="80" width="80"
+    <img align="center" alt="Vitor-css3" height="70" width="70"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-    <img align="center" alt="Vitor-html5" height="80" width="80"
+    <img align="center" alt="Vitor-html5" height="70" width="70"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />    
-    <img align="center" alt="Vitor-java" height="80" width="80"
+    <img align="center" alt="Vitor-java" height="70" width="70"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-    <img align="center" alt="Vitor-c#" height="80" width="80"
+    <img align="center" alt="Vitor-c#" height="70" width="70"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />   
-    <img align="center" alt="Vitor-AWS" height="80" width="80"
+    <img align="center" alt="Vitor-AWS" height="70" width="70"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-    <img align="center" alt="Vitor-linux" height="80" width="80"
+    <img align="center" alt="Vitor-linux" height="70" width="70"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img align="center" alt="Vitor-selenium" height="80" width="80"
+    <img align="center" alt="Vitor-selenium" height="70" width="70"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 </div>   
 <div style="display: inline_block" align="center"><br>  
