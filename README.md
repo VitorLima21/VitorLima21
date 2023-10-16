@@ -55,6 +55,16 @@ Sou **Desenvolvedor Full Stack**. Atualmente, trabalho com desenvolvimento em vÃ
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img align="center" alt="Vitor-selenium" height="70" width="70"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+    <img align="center" alt="Vitor-composer" height="70" width="70" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
+    <img align="center" alt="Vitor-nodejs" height="70" width="70" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />          
+    <img align="center" alt="Vitor-git" height="70" width="70"  
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+    <img align="center" alt="Vitor-azure" height="70" width="70"  
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" /> 
+    <img align="center" alt="Vitor-github" height="70" width="70"   
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>   
 <div style="display: inline_block" align="center"><br>  
   <a href="https://www.linkedin.com/in/vitor-lima-334b45114" target="_blank">
