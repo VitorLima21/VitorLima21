@@ -30,7 +30,9 @@ Sou **Desenvolvedor Full Stack**. Atualmente, trabalho com desenvolvimento em v√
     <img align="center" alt="Vitor-TypeScript" height="70" width="70"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />          
     <img align="center" alt="Vitor-mysql" height="70" width="70"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />  
+    <img align="center" alt="Vitor-Postgresql" height="70" width="70"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />       
     <img align="center" alt="Vitor-css3" height="70" width="70"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
     <img align="center" alt="Vitor-html5" height="70" width="70"
