@@ -27,6 +27,8 @@ Sou **Desenvolvedor Full Stack**. Atualmente, trabalho com desenvolvimento em vÃ
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img align="center" alt="Vitor-python" height="70" width="70"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+    <img align="center" alt="Vitor-TypeScript" height="70" width="70"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />          
     <img align="center" alt="Vitor-mysql" height="70" width="70"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
     <img align="center" alt="Vitor-css3" height="70" width="70"
