@@ -46,7 +46,9 @@ Sou **Desenvolvedor Full Stack**. Atualmente, trabalho com desenvolvimento em v√
     <img align="center" alt="Vitor-c#" height="70" width="70"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />   
     <img align="center" alt="Vitor-AWS" height="70" width="70"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />  
+    <img align="center" alt="Vitor-GoogleCloud" height="70" width="70"   
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />           
     <img align="center" alt="Vitor-linux" height="70" width="70"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img align="center" alt="Vitor-selenium" height="70" width="70"
