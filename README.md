@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Sou **Desenvolvedor Full Stack**. Atualmente, trabalho com desenvolvimento em várias linguagens de programação, incluindo TypeScript, PHP, JavaScript, Python, Dart, Banco de Dados SQL e alguns frameworks , além de ter conhecimentos em Java, C#, Linux, Segurança da informação, AWS, GCP e Pacote Office avançado . Atualmente, estou estudando Flutter e cursando o último semestre de Sistemas da Informação na instituição Faculdade das Américas.
+Sou **Desenvolvedor Full Stack**. Atualmente, trabalho com desenvolvimento em várias linguagens de programação, incluindo TypeScript, PHP, JavaScript, Python, Dart, Banco de Dados SQL e alguns frameworks , além de ter conhecimentos em Java, C#, Linux, Segurança da informação, AWS, GCP, Azure e Pacote Office avançado . Atualmente, estou estudando Flutter e cursando o último semestre de Sistemas da Informação na instituição Faculdade das Américas.
 
   ## Minhas skills  🧑‍💻👨‍💻 
  
@@ -52,8 +52,7 @@ Sou **Desenvolvedor Full Stack**. Atualmente, trabalho com desenvolvimento em v�
     <img align="center" alt="Vitor-GoogleCloud" height="70" width="70"   
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />  
     <img align="center" alt="Vitor-Azure" height="70" width="70"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
-          
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />          
     <img align="center" alt="Vitor-linux" height="70" width="70"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img align="center" alt="Vitor-selenium" height="70" width="70"
