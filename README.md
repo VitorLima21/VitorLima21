@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Sou **Desenvolvedor Full Stack**. Atualmente, trabalho com desenvolvimento em várias linguagens de programação, incluindo PHP, JavaScript, Python, Dart, Banco de Dados SQL e alguns frameworks , além de ter conhecimentos em Java, C#, AWS e Pacote Office avançado . Atualmente, estou estudando Flutter e cursando o 7º semestre de Sistemas da Informação na instituição Faculdade das Américas.
+Sou **Desenvolvedor Full Stack**. Atualmente, trabalho com desenvolvimento em várias linguagens de programação, incluindo TypeScript, PHP, JavaScript, Python, Dart, Banco de Dados SQL e alguns frameworks , além de ter conhecimentos em Java, C#, Linux, Segurança da informação, AWS, GCP e Pacote Office avançado . Atualmente, estou estudando Flutter e cursando o último semestre de Sistemas da Informação na instituição Faculdade das Américas.
 
   ## Minhas skills  🧑‍💻👨‍💻 
  
