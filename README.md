@@ -38,7 +38,7 @@ Sou **Desenvolvedor Full Stack**. Atualmente, trabalho com desenvolvimento em v√
     <img align="center" alt="Vitor-html5" height="70" width="70"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> 
     <img  align="center" alt="Vitor-NestJs" height="70" width="70" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"  />    
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg"  />    
     <img align="center" alt="Vitor-AngularJs" height="70" width="70"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />  
     <img align="center" alt="Vitor-ReactJs" height="70" width="70"
